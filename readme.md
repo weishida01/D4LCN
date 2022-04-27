@@ -25,7 +25,7 @@ python -m pip install Cython
 ##### 3. 下载代码
 
 ```
-git clone
+git clone https://github.com/weishida666/D4LCN.git
 ```
 
 ##### 4. build the KITTI devkit eval for split1
